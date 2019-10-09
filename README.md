@@ -5,4 +5,5 @@ For information about the project, please refer to https://Zymplectic.com/ and h
 Release history:
 
 Zymplectic v.0.1.0 (2019.10.2) - first released
+
 Zymplectic v.0.1.1 (2019.10.9) - implemented custom track features
