@@ -8,4 +8,4 @@ Zymplectic v.0.1.0 (2019.10.2) - first released
 
 Zymplectic v.0.1.1 (2019.10.9) - implemented custom track features
 
-Zymplectic v.0.1.2 (2019.10.28) - implemented new composite/alternating algorithms. Many fixes and new naming conventions.
+Zymplectic v.0.1.2 (2019.10.28) - implemented new composite algorithms. Many fixes and new naming conventions.
