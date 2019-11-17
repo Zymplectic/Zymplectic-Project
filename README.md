@@ -13,3 +13,5 @@ Zymplectic v.0.1.2 (2019.10.28) - implemented new composite algorithms. Many fix
 Zymplectic v.0.1.3 (2019.10.31) - clear gradient toggle and new naming convention in integrators.zym
 
 Zymplectic v.0.1.4 (2019.11.11) - codes are now fully compatible with c++
+
+Zymplectic v.0.1.5 (2019.11.17) - memory fix, added integrators and naming convention changes
