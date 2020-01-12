@@ -17,3 +17,5 @@ Zymplectic v.0.1.4 (2019.11.11) - codes are now fully compatible with c++
 Zymplectic v.0.1.5 (2019.11.17) - memory fix, added integrators and naming convention changes
 
 Zymplectic v.0.2.0 (2020.01.07) - new naming conventions and various improvements in performance and interface
+
+Zymplectic v.0.2.1 (2020.01.10) - updated clang, modified UI text
