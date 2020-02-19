@@ -29,4 +29,6 @@ Zymplectic v.0.2.1 (2020.01.10) - updated clang, modified UI text
 
 Zymplectic v.0.2.2 (2020.01.23) - added interactive features (experimental). Corrected various errors in scripts
 
-Zymplectic v.0.2.3 (2020.02.08) - RGB and RWB colormap. Scripts can initialize by commandline. Code cleanup. 
+Zymplectic v.0.2.3 (2020.02.08) - RGB and RWB colormap. Scripts can initialize by commandline. Code cleanup
+
+Zymplectic v.0.2.4 (2020.02.20) - Reduced latency for non-separable systems. Fixed a crash triggered by stopping simulation
