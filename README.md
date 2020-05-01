@@ -34,3 +34,5 @@ Zymplectic v.0.2.3 (2020.02.08) - RGB and RWB colormap. Scripts can initialize b
 Zymplectic v.0.2.4 (2020.02.20) - Reduced latency for non-separable systems. Fixed rare crash when stopping simulation
 
 Zymplectic v.0.2.5 (2020.03.02) - Surface of section examples. UI updates. New native functions (e.g. draw.spring)
+
+Zymplectic v.0.2.6 (2020.05.01) - Energy surface is now compatible for separable systems. Fixed scripted resolution
