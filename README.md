@@ -1,5 +1,5 @@
 Zymplectic is a numerical integration platform intended for scientific and educational purposes. 
-Zymplectic provides a highly accurate and efficient engine for simulating dynamical systems using the largest existing library of symplectic integrators.
+Zymplectic is an accurate and efficient engine for simulating dynamical systems using the largest existing library of symplectic integrators.
 Zymplectic does not require installation and does not modify files outside its directory unless instructed to by the user.
 
 How to use:
@@ -31,10 +31,12 @@ Zymplectic v.0.2.2 (2020.01.23) - added interactive features (experimental). Cor
 
 Zymplectic v.0.2.3 (2020.02.08) - RGB and RWB colormap. Scripts can initialize by commandline. Code cleanup
 
-Zymplectic v.0.2.4 (2020.02.20) - Reduced latency for non-separable systems. Fixed rare crash when stopping simulation
+Zymplectic v.0.2.4 (2020.02.20) - reduced latency for non-separable systems. Fixed rare crash when stopping simulation
 
-Zymplectic v.0.2.5 (2020.03.02) - Surface of section examples. UI updates. New native functions (e.g. draw.spring)
+Zymplectic v.0.2.5 (2020.03.02) - surface of section examples. UI updates. New native functions (e.g. draw.spring)
 
-Zymplectic v.0.2.6 (2020.05.01) - Energy surface is now compatible for separable systems. Fixed scripted resolution
+Zymplectic v.0.2.6 (2020.05.01) - energy surface is now compatible for separable systems. Fixed scripted resolution
 
 Zymplectic v.0.3.0 (2020.08.20) - 3D graphical display is now supported. Several example systems added
+
+Zymplectic v.0.3.1 (2020.09.09) - added new events and fixed trajectory tracking issues. GCC version update
