@@ -43,4 +43,4 @@ Zymplectic v.0.3.1 (2020.09.09) - added new events and fixed trajectory tracking
 
 Zymplectic v.0.3.2 (2020.10.01) - added new natives. improved surface of section scripts
 
-Zymplectic v.0.4.0 (2020.12.27) - added trail function, improved UI and natives. New naming conventions
+Zymplectic v.0.4.0 (2020.11.27) - added trail function, improved UI and natives. New naming conventions
