@@ -1,11 +1,14 @@
-Zymplectic is a numerical integration platform intended for scientific and educational purposes. 
-Zymplectic is an accurate and efficient engine for simulating dynamical systems using the largest existing library of symplectic integrators.
-Zymplectic does not require installation and does not modify files outside its directory unless instructed to by the user.
+Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
+- is a numerical integration platform intended for scientific and educational purposes.
+- is non-intrusive and does not modify files outside its directory unless instructed to by the user.
+- is an accurate and efficient engine for simulating dynamical systems using the largest existing library of symplectic integrators.
+- works straight out of the box as it does not require any setup, installation or otherwise.
+- includes a wide range of examples, that can be run by a single click in the application user interface.
 
 How to use:
 - Download Zymplectic (bundled with clang or gcc). Only win64 supported at this time
-- Run Zymplectic
-- Start any of the included example c++ scripts or use the existing scripts as templates for your own Hamiltonian systems
+- Run Zymplectic.exe
+- Start any of the included example c++ scripts or write your own Hamiltonian systems using provided templates
 
 For information about the project, please refer to https://Zymplectic.com/ and https://www.reddit.com/r/Zymplectic/
 
@@ -44,3 +47,5 @@ Zymplectic v.0.3.1 (2020.09.09) - added new events and fixed trajectory tracking
 Zymplectic v.0.3.2 (2020.10.01) - added new natives. improved surface of section scripts
 
 Zymplectic v.0.4.0 (2020.11.27) - added trail function, improved UI and natives. New naming conventions
+
+Zymplectic v.0.4.1 (2021.01.19) - improved 3D models and enabled culling. Licenses updated (more permissive)
