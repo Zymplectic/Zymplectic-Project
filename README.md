@@ -51,3 +51,5 @@ Zymplectic v.0.4.0 (2020.11.27) - added trail function, improved UI and natives.
 Zymplectic v.0.4.1 (2021.01.19) - improved 3D models and enabled culling. Licenses updated (more permissive)
 
 Zymplectic v.0.4.2 (2021.02.05) - fixed status layout in 3D mode. Added new example codes
+
+Zymplectic v.0.4.3 (2021.02.10) - "@" now functions as a macro power operator (experimental). Example codes altered
