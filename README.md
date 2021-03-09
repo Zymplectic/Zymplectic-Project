@@ -17,7 +17,7 @@ https://www.youtube.com/channel/UCfFso2YYzNxXbiTGFSV-ydQ
 
 Release history:
 
-v.0.4.4 (2021.03.08) - fixxed "@" comment issue, tweaked compilation process, added new example files
+v.0.4.4 (2021.03.08) - fixed "@" comment issue, tweaked compilation process, added new example files
 
 v.0.4.3 (2021.02.10) - "@" now functions as a macro power operator (experimental). Example codes altered
 
