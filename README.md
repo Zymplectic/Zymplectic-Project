@@ -11,11 +11,14 @@ How to use:
 - Start any of the included example c++ scripts or write your own Hamiltonian systems using provided templates
 
 For information about the project, please refer to
-https://Zymplectic.com/ 
-https://www.reddit.com/r/Zymplectic/ 
-https://www.youtube.com/channel/UCfFso2YYzNxXbiTGFSV-ydQ
+- Project website https://zymplectic.com/
+- Reddit https://www.reddit.com/r/Zymplectic/
+- Youtube https://www.youtube.com/channel/UCfFso2YYzNxXbiTGFSV-ydQ
+
 
 Release history:
+
+v.0.5.0 (2021.04.03) - 3D surface added, @ fix, track_add renamed to track, improved some example scripts
 
 v.0.4.4 (2021.03.08) - fixed "@" comment issue, tweaked compilation process, added new example files
 
