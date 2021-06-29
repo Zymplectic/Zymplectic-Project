@@ -18,6 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.6.0 (2021.06.29) - added 3D text, texts now rely on \0, attempt fix for shared drives, new examples
 - v.0.5.2 (2021.05.25) - fixed potential trail crash, added UI scaling for 1080p, added example scripts
 - v.0.5.1 (2021.05.05) - fixed crash in 3D mode, added new example script and draw.linesize
 - v.0.5.0 (2021.04.03) - 3D surface added, @ fix, track_add renamed to track, improved some example scripts
