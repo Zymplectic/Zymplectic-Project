@@ -1,9 +1,9 @@
 Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
 - is a numerical integration platform intended for scientific and educational purposes.
-- is non-intrusive and does not modify files outside its directory unless instructed to by the user.
 - is an accurate and efficient engine for simulating dynamical systems using the largest existing library of symplectic integrators.
-- works straight out of the box as it does not require any setup, installation or otherwise.
-- includes a wide range of examples, that can be run by a single click in the application user interface.
+- is non-intrusive as it is fully offline and does not modify files outside its directory.
+- works straight out of the box (7z zip file) as it requires no setup, installation or otherwise.
+- includes more than 40 examples, that can be run by a single click in the application user interface.
 
 How to use:
 - Download Zymplectic (bundled with clang or gcc). Only win64 supported at this time
@@ -18,7 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
-- v.0.6.1 (2021.07.08) - 4K resolution is now fully support and fixed crash and start delay issue
+- v.0.6.1 (2021.07.08) - 4K resolution is now fully support, fixed 3D text, clang version update
 - v.0.6.0 (2021.06.29) - added 3D text, texts now rely on \0, attempt fix for shared drives, new examples
 - v.0.5.2 (2021.05.25) - fixed potential trail crash, added UI scaling for 1080p, added example scripts
 - v.0.5.1 (2021.05.05) - fixed crash in 3D mode, added new example script and draw.linesize
