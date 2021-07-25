@@ -18,6 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.6.3 (2021.07.25) - fixed two 1080p+ memory issues, updated and added example scripts
 - v.0.6.2 (2021.07.14) - added pause (spacebar), various initialization fixes, added example scripts
 - v.0.6.1 (2021.07.08) - 4K resolution is now fully support, fixed 3D text, clang version update
 - v.0.6.0 (2021.06.29) - added 3D text, texts now rely on \0, attempt fix for shared drives, new examples
