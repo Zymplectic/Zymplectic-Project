@@ -13,11 +13,12 @@ How to use:
 For information about the project, please refer to
 - Project website https://zymplectic.com/
 - Reddit https://www.reddit.com/r/Zymplectic/
-- Youtube https://www.youtube.com/channel/UCfFso2YYzNxXbiTGFSV-ydQ
+- Youtube https://www.youtube.com/c/Zymplectic
 
 
 Release history:
 
+- v.0.6.5 (2021.08.27) - multi-trail supported, axes/UI changes and fixes, added, new example script 
 - v.0.6.4 (2021.08.11) - added -D_DIM#, added example script, improved UI, fixed surf-rescale hanging
 - v.0.6.3 (2021.07.25) - fixed two 1080p+ memory issues, updated and added example scripts
 - v.0.6.2 (2021.07.14) - added pause (spacebar), various initialization fixes, added example scripts
