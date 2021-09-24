@@ -18,6 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.7.0 (2021.09.24) - timer system overhaul, draw.trailRGB added, crash fixes, new example script
 - v.0.6.5 (2021.08.27) - multi-trail supported, axes/UI changes and fixes, added, new example script 
 - v.0.6.4 (2021.08.11) - added -D_DIM#, added example script, improved UI, fixed surf-rescale hanging
 - v.0.6.3 (2021.07.25) - fixed two 1080p+ memory issues, updated and added example scripts
