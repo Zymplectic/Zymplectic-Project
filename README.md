@@ -1,9 +1,9 @@
 Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
-- is a numerical integration platform intended for scientific and educational purposes.
-- is an accurate and efficient engine for simulating dynamical systems using the largest existing library of symplectic integrators.
-- is non-intrusive as it is fully offline and does not modify files outside its directory.
-- works straight out of the box (7z zip file) as it requires no setup, installation or otherwise.
-- includes more than 40 examples, that can be run by a single click in the application user interface.
+- Numerical integration platform intended for scientific and educational purposes.
+- Highly accurate and efficient engine for simulating dynamical systems using the largest existing library of symplectic integrators.
+- Non-intrusive as it is fully offline and does not modify files outside its directory.
+- Works straight out of the box (7z zip file) as it requires no setup, installation or otherwise.
+- Includes around 50 examples that can be run by a single click in the graphical user interface.
 
 How to use:
 - Download Zymplectic (bundled with clang or gcc). Only win64 supported at this time
@@ -18,6 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.7.1 (2021.10.09) - added spring function argument, optimized N-pendulum, added script
 - v.0.7.0 (2021.09.24) - timer system overhaul, draw.trailRGB added, crash fixes, new example script
 - v.0.6.5 (2021.08.27) - multi-trail supported, axes/UI changes and fixes, added, new example script 
 - v.0.6.4 (2021.08.11) - added -D_DIM#, added example script, improved UI, fixed surf-rescale hanging
