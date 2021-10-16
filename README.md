@@ -18,6 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.7.2 (2021.10.16) - fixed trail crash, VSync stutter fixed, fixed cdir path issue, new example script
 - v.0.7.1 (2021.10.09) - added spring function argument, optimized N-pendulum, added script
 - v.0.7.0 (2021.09.24) - timer system overhaul, draw.trailRGB added, crash fixes, new example script
 - v.0.6.5 (2021.08.27) - multi-trail supported, axes/UI changes and fixes, added, new example script 
