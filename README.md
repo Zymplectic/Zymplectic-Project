@@ -18,6 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.7.3 (2021.11.01) - graphics timer overhaul fixing stutter and fps cap, fixed special case "@" issue
 - v.0.7.2 (2021.10.16) - fixed trail crash, VSync stutter fixed, fixed cdir path issue, new example script
 - v.0.7.1 (2021.10.09) - added spring function argument, optimized N-pendulum, added script
 - v.0.7.0 (2021.09.24) - timer system overhaul, draw.trailRGB added, crash fixes, new example script
