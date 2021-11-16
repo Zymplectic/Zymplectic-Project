@@ -18,6 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.7.4 (2021.11.16) - fixed native surf, draw.surf now works for 2D display, added draw.depth
 - v.0.7.3 (2021.11.01) - graphics timer overhaul fixing stutter and fps cap, fixed special case "@" issue
 - v.0.7.2 (2021.10.16) - fixed trail crash, VSync stutter fixed, fixed cdir path issue, new example script
 - v.0.7.1 (2021.10.09) - added spring function argument, optimized N-pendulum, added script
