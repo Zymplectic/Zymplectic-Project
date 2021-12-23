@@ -18,6 +18,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.7.6 (2021.12.23) - added draw.spheres, in-script compiler flags, optimizations and new example script 
 - v.0.7.5 (2021.12.07) - fixed ScreenX update, fixed zero-parameters script load, new example script 
 - v.0.7.4 (2021.11.16) - fixed native surf, draw.surf now works for 2D display, added draw.depth
 - v.0.7.3 (2021.11.01) - graphics timer overhaul fixing stutter and fps cap, fixed special case "@" issue
