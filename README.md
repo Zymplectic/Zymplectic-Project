@@ -19,6 +19,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.7.7 (2021.01.24) - fixed camera, loading and flag issues when changing script, new example script
 - v.0.7.6 (2021.12.23) - added draw.spheres, in-script compiler flags, optimizations and new example script 
 - v.0.7.5 (2021.12.07) - fixed ScreenX update, fixed zero-parameters script load, new example script 
 - v.0.7.4 (2021.11.16) - fixed native surf, draw.surf now works for 2D display, added draw.depth
