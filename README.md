@@ -20,17 +20,18 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.8.2 (2022.05.05) - added multisample anti-aliasing, added draw.cone, fixed draw.cam affect and reset
 - v.0.8.1 (2022.04.20) - fixed crash, fixed/improved several scripts, freeglut update, new example script
 - v.0.8.0 (2022.04.08) - improved graphing fidelity, +6 RKN methods, crash fixes, new example scripts, QOL
 - v.0.7.7 (2022.01.24) - fixed camera, loading and flag issues when changing script, new example script
-- v.0.7.6 (2021.12.23) - added draw.spheres, in-script compiler flags, optimizations and new example script 
-- v.0.7.5 (2021.12.07) - fixed ScreenX update, fixed zero-parameters script load, new example script 
+- v.0.7.6 (2021.12.23) - added draw.spheres, in-script compiler flags, optimizations and new example script
+- v.0.7.5 (2021.12.07) - fixed ScreenX update, fixed zero-parameters script load, new example script
 - v.0.7.4 (2021.11.16) - fixed native surf, draw.surf now works for 2D display, added draw.depth
 - v.0.7.3 (2021.11.01) - graphics timer overhaul fixing stutter and fps cap, fixed special case "@" issue
 - v.0.7.2 (2021.10.16) - fixed trail crash, VSync stutter fixed, fixed cdir path issue, new example script
 - v.0.7.1 (2021.10.09) - added spring function argument, optimized N-pendulum, added script
 - v.0.7.0 (2021.09.24) - timer system overhaul, draw.trailRGB added, crash fixes, new example script
-- v.0.6.5 (2021.08.27) - multi-trail supported, axes/UI changes and fixes, added, new example script 
+- v.0.6.5 (2021.08.27) - multi-trail supported, axes/UI changes and fixes, added, new example script
 - v.0.6.4 (2021.08.11) - added -D_DIM#, added example script, improved UI, fixed surf-rescale hanging
 - v.0.6.3 (2021.07.25) - fixed two 1080p+ memory issues, updated and added example scripts
 - v.0.6.2 (2021.07.14) - added pause (spacebar), various initialization fixes, added example scripts
