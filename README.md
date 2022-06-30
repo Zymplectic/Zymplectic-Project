@@ -20,6 +20,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.8.4 (2022.06.30) - added 5 sequential colormaps, fixed track resolution scaling, new example script
 - v.0.8.3 (2022.05.24) - graphics recoded and optimized, added blend trails and fog clipping, fixed script
 - v.0.8.2 (2022.05.05) - added multisample anti-aliasing, added draw.cone, fixed draw.cam affect and reset
 - v.0.8.1 (2022.04.20) - fixed crash, fixed/improved several scripts, freeglut update, new example script
