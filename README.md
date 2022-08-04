@@ -20,6 +20,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.8.6 (2022.08.05) - fixed scaled draw.surf normals, initial camera issue fixed, new example script
 - v.0.8.5 (2022.07.16) - numerous small fixes, added draw.rgb(v) and simplified scripts, new example script  
 - v.0.8.4 (2022.06.30) - added 5 sequential colormaps, fixed track resolution scaling, new example script
 - v.0.8.3 (2022.05.24) - graphics recoded and optimized, added blend trails and fog clipping, fixed script
