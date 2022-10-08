@@ -20,6 +20,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.9.0 (2022.10.08) - paused start, numerous fixes and UI improvements, example scripts added/updated
 - v.0.8.7 (2022.08.21) - added draw.surfopt, optimized draw.surf, fixed cone normals, new example script
 - v.0.8.6 (2022.08.05) - fixed scaled draw.surf normals, initial camera issue fixed, new example script
 - v.0.8.5 (2022.07.16) - numerous small fixes, added draw.rgb(v) and simplified scripts, new example script  
