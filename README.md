@@ -20,7 +20,7 @@ For information about the project, please refer to
 
 Release history:
 
-- v.0.9.1 (2022.11.30) - minor fixes, 3D cam ctrl and shift adjust speeds, several new example scripts
+- v.0.9.1 (2022.11.30) - minor fixes, 3D cam ctrl/shift speeds, clang version update, new example scripts
 - v.0.9.0 (2022.10.08) - paused start, numerous fixes and UI improvements, example scripts added/updated
 - v.0.8.7 (2022.08.21) - added draw.surfopt, optimized draw.surf, fixed cone normals, new example script
 - v.0.8.6 (2022.08.05) - fixed scaled draw.surf normals, initial camera issue fixed, new example script
