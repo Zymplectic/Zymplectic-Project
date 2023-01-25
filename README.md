@@ -20,6 +20,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.9.3 (2023.01.25) - track overhaul, updated licenses, UI tweaks and fixes, new example script, QOL 
 - v.0.9.2 (2023.01.02) - fixed crash involving draw.surf, added draw.track_get, several scripts improved
 - v.0.9.1 (2022.11.30) - minor fixes, 3D cam ctrl/shift speeds, clang version update, new example scripts
 - v.0.9.0 (2022.10.08) - paused start, numerous fixes and UI improvements, example scripts added/updated
