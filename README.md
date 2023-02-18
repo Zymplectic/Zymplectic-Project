@@ -3,7 +3,7 @@ Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and b
 - Highly accurate and efficient engine for simulating dynamical systems using the world's largest selection of symplectic integrators
 - Non-intrusive, fully offline, requires no installation and does not modify files outside its directory
 - Works straight out of the box (7z zip file) with no dependencies and requires no setup
-- Includes more than 60 examples of dynamical systems to be compiled and run with a single click in a practical user interface
+- Includes more than 70 example dynamical systems to be compiled and run with a single click in a practical user interface
 
 Only win64 supported at this time
 
@@ -15,11 +15,12 @@ How to use:
 For information about the project, please refer to
 - Project website https://zymplectic.com/
 - Reddit https://www.reddit.com/r/Zymplectic/
-- Youtube https://www.youtube.com/c/Zymplectic
+- YouTube https://www.youtube.com/c/Zymplectic
 
 
 Release history:
 
+- v.0.9.4 (2023.02.18) - several fixes, e.g. 3D track interface, improved Poincaré scripts, new scripts
 - v.0.9.3 (2023.01.25) - track overhaul, updated licenses, UI tweaks and fixes, new example script, QOL 
 - v.0.9.2 (2023.01.02) - fixed crash involving draw.surf, added draw.track_get, several scripts improved
 - v.0.9.1 (2022.11.30) - minor fixes, 3D cam ctrl/shift speeds, clang version update, new example scripts
