@@ -20,7 +20,8 @@ For information about the project, please refer to
 
 Release history:
 
-- v.0.9.6 (2023.04.07) - fixed 3D cursor position display, added speed swap, new example scripts
+- v.0.10.0 (2023.04.25) - full 3D interfacing, GUI improved, numerous fixes e.g. start stutter, new scripts
+- v.0.9.6 (2023.04.07) - fixed 3D cursor position display, added speed toggle, new example scripts
 - v.0.9.5 (2023.03.30) - added 3D mouseX/Y detection, several graphical fixes, new example script
 - v.0.9.4 (2023.02.18) - several fixes, e.g. 3D track interface, improved Poincaré scripts, new scripts
 - v.0.9.3 (2023.01.25) - track overhaul, updated licenses, UI tweaks and fixes, new example script, QOL 
