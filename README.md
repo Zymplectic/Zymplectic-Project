@@ -20,6 +20,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.11.0 (2023.12.15) - added draw.box, added up(x) header, fixed reset issues, new example scripts 
 - v.0.10.4 (2023.07.29) - fixed several benchmark issues including crash that would occur in abs benchmark
 - v.0.10.3 (2023.07.20) - added "quick benchmark", integrators and example script. Abs benchmark fixed
 - v.0.10.2 (2023.05.25) - optimized most graphical shapes, draw.spring (2D) removed, new example scripts
