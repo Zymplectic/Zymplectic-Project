@@ -20,6 +20,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.11.2 (2024.05.20) - added draw.rods, fixed rod/spring orientation issues, new example script
 - v.0.11.1 (2024.02.03) - new sequential colormaps, new example scripts, lighting fix for some primitives
 - v.0.11.0 (2023.12.15) - added draw.box, added up(x) header, fixed reset issues, new example scripts 
 - v.0.10.4 (2023.07.29) - fixed several benchmark issues including crash that would occur in abs benchmark
