@@ -3,7 +3,7 @@ Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and b
 - Highly accurate and efficient engine for simulating dynamical systems using the world's largest selection of symplectic integrators
 - Non-intrusive, fully offline, requires no installation and does not modify files outside its directory
 - Works straight out of the box (7z zip file) with no dependencies and requires no setup
-- Includes more than 70 example dynamical systems to be compiled and run with a single click in a practical user interface
+- Includes more than 80 example dynamical systems to be compiled and run with a single click in a practical user interface
 
 Only win64 supported at this time
 
@@ -20,6 +20,7 @@ For information about the project, please refer to
 
 Release history:
 
+- v.0.11.3 (2024.07.05) - added high order integrators, example scripts, colormaps, integrator export
 - v.0.11.2 (2024.05.20) - added draw.rods, fixed rod/spring orientation issues, new example script
 - v.0.11.1 (2024.02.03) - new sequential colormaps, new example scripts, lighting fix for some primitives
 - v.0.11.0 (2023.12.15) - added draw.box, added up(x) header, fixed reset issues, new example scripts 
