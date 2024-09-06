@@ -1,25 +1,25 @@
-Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
+## Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
 - Numerical integration platform intended for scientific and educational purposes
 - Highly accurate and efficient engine for simulating dynamical systems using the world's largest selection of symplectic integrators
 - Non-intrusive, fully offline, requires no installation and does not modify files outside its directory
 - Works straight out of the box (7z zip file) with no dependencies and requires no setup
 - Includes more than 80 example dynamical systems to be compiled and run with a single click in a practical user interface
 
-Only win64 supported at this time
+`Only win64 supported at this time. Integrator coefficients and Hamiltonian systems can otherwise be extracted from text files`
 
-How to use:
+### How to use:
 - Download Zymplectic (bundled with clang or gcc) and extract files to folder
 - Run Zymplectic.exe
 - Start any of the included example c++ scripts or write your own Hamiltonian systems using provided templates
 
-For information about the project, please refer to
+### For information about the project, please refer to
 - Project website https://zymplectic.com/
 - Reddit https://www.reddit.com/r/Zymplectic/
 - YouTube https://www.youtube.com/c/Zymplectic
 
+### Release history:
 
-Release history:
-
+- v.0.12.0 (2024.09.06) - added periodic time, optimized sphere and other graphics, new example script
 - v.0.11.3 (2024.07.05) - added high order integrators, example scripts, colormaps, integrator export
 - v.0.11.2 (2024.05.20) - added draw.rods, fixed rod/spring orientation issues, new example script
 - v.0.11.1 (2024.02.03) - new sequential colormaps, new example scripts, lighting fix for some primitives
