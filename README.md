@@ -1,11 +1,11 @@
-## Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
+### Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
 - Numerical integration platform intended for scientific and educational purposes
 - Highly accurate and efficient engine for simulating dynamical systems using the world's largest selection of symplectic integrators
 - Non-intrusive, fully offline, requires no installation and does not modify files outside its directory
 - Works straight out of the box (7z zip file) with no dependencies and requires no setup
 - Includes more than 80 example dynamical systems to be compiled and run with a single click in a practical user interface
 
-`Only win64 supported at this time. Integrator coefficients and Hamiltonian systems can otherwise be extracted from text files`
+`Only win64 supported at this time`
 
 ### How to use:
 - Download Zymplectic (bundled with clang or gcc) and extract files to folder
