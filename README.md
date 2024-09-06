@@ -12,7 +12,7 @@
 - Run Zymplectic.exe
 - Start any of the included example c++ scripts or write your own Hamiltonian systems using provided templates
 
-### For information about the project, please refer to
+### For information about the project, please refer to:
 - Project website https://zymplectic.com/
 - Reddit https://www.reddit.com/r/Zymplectic/
 - YouTube https://www.youtube.com/c/Zymplectic
