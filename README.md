@@ -19,6 +19,7 @@
 
 ### Release history:
 
+- v.0.12.2 (2024.11.22) - digits increased for several integrators, new compositions in integrators.zym, 
 - v.0.12.1 (2024.10.14) - optimized rod/hrod graphics, some scripts optimized, new example script
 - v.0.12.0 (2024.09.06) - added periodic time, optimized sphere and other graphics, new example script
 - v.0.11.3 (2024.07.05) - added high order integrators, example scripts, colormaps, integrator export
