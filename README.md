@@ -24,7 +24,7 @@
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history:
-- v.0.12.4 (2025.04.25) - added export/import for track, minor gui fixes, new example scripts
+- v.0.12.4 (2025.04.11) - added export/import for track, minor gui fixes, new example scripts
 - v.0.12.3 (2025.01.14) - native graphics and Z.OnDrawAdd supports multiple trails, new example scripts
 - v.0.12.2 (2024.11.22) - digits increased for several integrators, new compositions in integrators.zym
 - v.0.12.1 (2024.10.14) - optimized rod/hrod graphics, some scripts optimized, new example script
