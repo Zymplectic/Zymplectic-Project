@@ -1,13 +1,14 @@
 ### Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
-Zymplectic is an accurate and fast numerical integration platform intended for scientific and educational purposes
+- Zymplectic is an accurate and fast numerical integration platform intended for scientific and educational purposes
 
 ### Core features:
 - Built-in explict symplectic integration algorithms for separable and nonseparable Hamiltonian systems
 - Largest public collection of symplectic integration coefficients (source file integrators.zym)
-- Comprehensive library of Hamiltonian dynamical systems (more than 90 c-style c++ files in /scripts)
+- Comprehensive library of Hamiltonian dynamical systems (about 100 examples written in c-style c++ code)
 - Non-intrusive, fully offline, requires no installation and does not modify files outside its directory
 - Works straight out of the box (7z zip file) with no dependencies and requires no setup
-- Practical GUI to simulate any dynamical system with graphics by a single click
+- Practical GUI to compile and simulate dynamical systems by a single click
+- Simulation graphics based on simple and convenient functions based on OpenGL
 - Performance and flexibility of MinGW-w64 compilers
 
 `Only win64 supported at this time`
@@ -23,7 +24,7 @@ Zymplectic is an accurate and fast numerical integration platform intended for s
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history:
-
+- v.0.12.4 (2025.04.25) - added export/import for track, minor gui fixes, new example scripts
 - v.0.12.3 (2025.01.14) - native graphics and Z.OnDrawAdd supports multiple trails, new example scripts
 - v.0.12.2 (2024.11.22) - digits increased for several integrators, new compositions in integrators.zym
 - v.0.12.1 (2024.10.14) - optimized rod/hrod graphics, some scripts optimized, new example script
