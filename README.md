@@ -8,7 +8,7 @@
 - Non-intrusive, fully offline, requires no installation and does not modify files outside its directory
 - Works straight out of the box (7z zip file) with no dependencies and requires no setup
 - Practical GUI to compile and simulate dynamical systems by a single click
-- Simulation graphics based on simple and convenient functions based on OpenGL
+- Graphics by simple and convenient functions based on OpenGL
 - Performance and flexibility of MinGW-w64 compilers
 
 `Only win64 supported at this time`
