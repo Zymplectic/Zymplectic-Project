@@ -25,9 +25,10 @@
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history:
-v.0.12.7 (2025.09.22) - draw.trackb added, x track fix, script improvements, new example scripts<br/>
+v.0.13.0 (2025.12.09) - constrained systems supported, cylindrical canvas added, new example scripts<br/>
 <details>
 <summary>Older releases</summary>
+v.0.12.7 (2025.09.22) - draw.trackb added, x track fix, script improvements, new example scripts<br/>
 v.0.12.6 (2025.07.27) - draw.rods can loop, @ fix, improved documentation, new example scripts<br/>
 v.0.12.5 (2025.05.23) - draw.sphere, draw.polygon optimized, new integrators, new example script, QOL<br/>
 v.0.12.4 (2025.04.11) - added export/import for track, minor gui fixes, new example scripts<br/>
