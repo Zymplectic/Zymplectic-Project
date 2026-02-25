@@ -5,7 +5,7 @@
 ### Core features:
 - Built-in explict symplectic integration algorithms for (non)separable and (non)autonomous Hamiltonian systems
 - Largest public collection of symplectic integration coefficients (source file integrators.zym)
-- Comprehensive library of Hamiltonian dynamical systems (about 100 examples written in c-style c++ code)
+- Comprehensive library of Hamiltonian dynamical systems with more than 100 examples available in c/c++ code
 - Non-intrusive, fully offline, requires no installation and does not modify files outside its directory
 - Works straight out of the box (7z zip file) with no dependencies and requires no setup
 - Practical GUI to compile and simulate dynamical systems by a single click
@@ -25,9 +25,10 @@
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history:
-v.0.13.1 (2025.12.18) - minor UI improvements, updated licenses, clang version update, script fixes<br/>
+v.0.13.2 (2026.02.25) - nonautonomous constrained supported, trail crash fix, fabius and new scripts<br/>
 <details>
 <summary>Older releases</summary>
+v.0.13.1 (2025.12.18) - minor UI improvements, updated licenses, clang version update, script fixes<br/>
 v.0.13.0 (2025.12.09) - constrained systems supported, cylindrical canvas added, new example scripts<br/>
 v.0.12.7 (2025.09.22) - draw.trackb added, x track fix, script improvements, new example scripts<br/>
 v.0.12.6 (2025.07.27) - draw.rods can loop, @ fix, improved documentation, new example scripts<br/>
