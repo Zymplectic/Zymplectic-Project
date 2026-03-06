@@ -25,6 +25,7 @@
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history:
+v.0.13.3 (2026.03.06) - x87 fix, constrained methods nudge, fabius update, new example script<br/>
 v.0.13.2 (2026.02.25) - nonautonomous constrained supported, trail crash fix, fabius and new scripts<br/>
 <details>
 <summary>Older releases</summary>
