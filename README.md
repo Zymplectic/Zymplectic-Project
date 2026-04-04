@@ -1,30 +1,36 @@
-### Zymplectic :: Cutting edge numerical integration done easy, fast, accurate and beautiful
-- Zymplectic is an accurate and fast numerical integration platform specialized for Hamiltonian physics and intended for scientific and educational purposes
-- Zymplectic is NOT a sandbox physics tool and is NOT intended for parallel computing tasks 
+### Zymplectic :: Fast, accurate, and elegant numerical integration
+- Zymplectic is high-performance numerical integration platform specialized for Hamiltonian physics
+- Designed for scientific and educational use
+- Not intended as a sandbox physics engine or for parallel computing tasks
 
-### Core features:
-- Built-in explict symplectic integration algorithms for (non)separable and (non)autonomous Hamiltonian systems
-- Largest public collection of symplectic integration coefficients (source file integrators.zym)
-- Comprehensive library of Hamiltonian dynamical systems with more than 100 examples available in c/c++ code
-- Non-intrusive, fully offline, requires no installation and does not modify files outside its directory
-- Works straight out of the box (7z zip file) with no dependencies and requires no setup
-- Practical GUI to compile and simulate dynamical systems by a single click
-- Graphics by simple and convenient functions based on OpenGL
-- Performance and flexibility of MinGW-w64 compilers
+### Core features
+- Built-in explicit symplectic integrators for separable and non-separable, autonomous and non-autonomous Hamiltonian systems
+- Supports both unconstrained and constrained Hamiltonian systems
+- Extensive collection of symplectic integration coefficients (text file *integrators.zym*)
+- Large library of Hamiltonian systems with 100+ examples in C/C++ with applications in chaos and KAM theory
+- Fully self-contained: No installation, no external dependencies, extracted from 7z archive
+- Powerful GUI for compiling and simulating systems with a single click
+- Practical OpenGL-based graphics utilities
+- Powered by MinGW-w64 toolchains for high performance and flexibility
 
-`Only win64 supported at this time`
+### Getting Started
+- Download Zymplectic (bundled with clang or gcc)
+- Extract files to a folder
+- Run Zymplectic.exe 
+- Open an example or create your own Hamiltonian system using the provided templates
 
-### How to use:
-- Download Zymplectic (bundled with clang or gcc) and extract files to a folder
-- Run Zymplectic.exe
-- Start any of the included example c++ scripts or write your own Hamiltonian systems using provided templates
+:exclamation: Zymplectic.exe is only Windows (win64) compatible at the moment. <br>
+Integration coefficients and dynamical systems may still be accessed on any operating systems.  
+
+<img width="768" height="798" alt="interface" src="https://github.com/user-attachments/assets/0a908dde-f68c-4420-bb40-31186a1afdaf" /> <br>
+Zymplectic graphics window and GUI (Windows 10) simulating a constrained pendulum system. Command window not shown.
 
 ### For information about the project, please refer to:
-- Project website https://zymplectic.com/
+- Website https://Zymplectic.com/
 - Reddit https://www.reddit.com/r/Zymplectic/
 - YouTube https://www.youtube.com/c/Zymplectic
 
-### Release history:
+### Release history
 v.0.13.4 (2026.04.04) - crash and memory fixes, start stutter fix, optimization, new example script<br/>
 v.0.13.3 (2026.03.06) - x87 fix, constrained methods nudge, fabius update, new example script<br/>
 v.0.13.2 (2026.02.25) - nonautonomous constrained supported, trail crash fix, fabius and new scripts<br/>
