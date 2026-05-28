@@ -6,11 +6,12 @@
 ### Core features
 - Built-in explicit symplectic integrators for separable and non-separable, autonomous and non-autonomous Hamiltonian systems
 - Supports both unconstrained and constrained Hamiltonian systems
-- Extensive collection of symplectic integration coefficients (text file *integrators.zym*)
+- Extensive collection of symplectic integration coefficients, some of which are available [here](https://github.com/Zymplectic/Splitting-methods)
 - Large library of Hamiltonian systems with 100+ examples in C/C++ with applications in chaos and KAM theory
-- Fully self-contained: No installation, no external dependencies
 - Powerful GUI for compiling and simulating systems with a single click
 - Practical OpenGL-based graphics utilities
+- Detailed error analysis with benchmark features and coefficient profiling in Hall and Lyndon basis 
+- Fully self-contained: No installation, no external dependencies
 - Powered by MinGW-w64 toolchains for high performance and flexibility
 
 ### Getting Started
