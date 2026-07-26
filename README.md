@@ -32,12 +32,13 @@ Zymplectic graphics window and GUI (Windows 10) simulating a constrained pendulu
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history
+v.0.14.1 (2026.07.26) - I/O bug fix, .zym load fixes, UI fixes, clang version update, new example script
 v.0.14.0 (2026.07.17) - Lyndon/Hall improved, non-FSAL non-sep algorithm modified, new example script<br/>
 v.0.13.6 (2026.05.27) - tools menu overhaul, Hall and Lyndon, integrators update, new example script<br/>
-v.0.13.5 (2026.04.22) - axes display overhaul, UI changes, corrupted heap fix, new example script<br/>
 
 <details>
 <summary>Older releases</summary>
+v.0.13.5 (2026.04.22) - axes display overhaul, UI changes, corrupted heap fix, new example script<br/>
 v.0.13.4 (2026.04.04) - crash and memory fixes, start stutter fix, optimization, new example script<br/>
 v.0.13.3 (2026.03.06) - x87 fix, constrained methods nudge, fabius update, new example script<br/>
 v.0.13.2 (2026.02.25) - nonautonomous constrained supported, trail crash fix, fabius and new scripts<br/>
