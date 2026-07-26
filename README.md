@@ -32,7 +32,7 @@ Zymplectic graphics window and GUI (Windows 10) simulating a constrained pendulu
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history
-v.0.14.1 (2026.07.26) - I/O bug fix, .zym load fixes, UI fixes, clang version update, new example script
+v.0.14.1 (2026.07.26) - I/O bug fix, .zym load fixes, UI fixes, clang version update, new example script<br/>
 v.0.14.0 (2026.07.17) - Lyndon/Hall improved, non-FSAL non-sep algorithm modified, new example script<br/>
 v.0.13.6 (2026.05.27) - tools menu overhaul, Hall and Lyndon, integrators update, new example script<br/>
 
