@@ -20,7 +20,7 @@
 - Run Zymplectic.exe 
 - Open an example or create your own Hamiltonian system using the provided templates
 
-:exclamation: Zymplectic.exe is only Windows (win64) compatible at the moment. <br>
+:exclamation: Zymplectic.exe is only Windows (win64) compatible at the moment.<br>
 Integration coefficients and source files of dynamical systems may still be accessed on any operating systems.  
 
 <img width="768" height="798" alt="interface" src="https://github.com/user-attachments/assets/0a908dde-f68c-4420-bb40-31186a1afdaf" /> <br>
@@ -32,12 +32,13 @@ Zymplectic graphics window and GUI (Windows 10) simulating a constrained pendulu
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history
+v.0.15.1 (2026.09.04) - fixes for UI and I/O, added integrator, added defect and basis free norm in tools<br/>
 v.0.15.0 (2026.08.18) - UCRT build, new wxWidgets GUI, performance improvements, QOL, script replacements<br/>
 v.0.14.1 (2026.07.26) - I/O bug fix, .zym load fixes, UI fixes, clang version update, new example script<br/>
-v.0.14.0 (2026.07.17) - Lyndon/Hall improved, non-FSAL non-sep algorithm modified, new example script<br/>
 
 <details>
 <summary>Older releases</summary>
+v.0.14.0 (2026.07.17) - Lyndon/Hall improved, non-FSAL non-sep algorithm modified, new example script<br/>
 v.0.13.6 (2026.05.27) - tools menu overhaul, Hall and Lyndon, integrators update, new example script<br/>
 v.0.13.5 (2026.04.22) - axes display overhaul, UI changes, corrupted heap fix, new example script<br/>
 v.0.13.4 (2026.04.04) - crash and memory fixes, start stutter fix, optimization, new example script<br/>
