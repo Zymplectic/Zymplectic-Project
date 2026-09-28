@@ -32,6 +32,7 @@ Zymplectic graphics window and GUI (Windows 10) simulating a constrained pendulu
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history
+v.0.15.3 (2026.09.28) - improved fabius, script replacement, hotkey fix, integrator UI color fix<br/>
 v.0.15.2 (2026.09.15) - added integrators, fixes for "quick benchmark", GUI, core, NS-nonsym-FSAL method<br/>
 v.0.15.1 (2026.09.04) - fixes for UI and I/O, added integrator, added defect and basis free norm in tools<br/>
 v.0.15.0 (2026.08.18) - UCRT build, new wxWidgets GUI, performance improvements, QOL, script replacements<br/>
