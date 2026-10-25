@@ -32,12 +32,13 @@ Zymplectic graphics window and GUI (Windows 10) simulating a constrained pendulu
 - YouTube https://www.youtube.com/c/Zymplectic
 
 ### Release history
-v.0.16.0 (2026.10.13) - alternating-adjoint RKN, added integrators, benchmark loader, colormap.dat<br> 
+v.0.16.1 (2026.10.25) - added integrators, UI fix, .zym crash fix, script fixes, new example script<br/>
+v.0.16.0 (2026.10.13) - alternating-adjoint RKN, added integrators, benchmark loader, colormap.dat<br/> 
 v.0.15.3 (2026.09.28) - improved fabius, script replacement, hotkey fix, integrator UI color fix<br/>
-v.0.15.2 (2026.09.15) - added integrators, fixes for "quick benchmark", GUI, core, NS-nonsym-FSAL method<br/>
 
 <details>
 <summary>Older releases</summary>
+v.0.15.2 (2026.09.15) - added integrators, fixes for "quick benchmark", GUI, core, NS-nonsym-FSAL method<br/>
 v.0.15.1 (2026.09.04) - fixes for UI and I/O, added integrator, added defect and basis free norm in tools<br/>
 v.0.15.0 (2026.08.18) - UCRT build, new wxWidgets GUI, performance improvements, QOL, script replacements<br/>
 v.0.14.1 (2026.07.26) - I/O bug fix, .zym load fixes, UI fixes, clang version update, new example script<br/>
